@@ -1,0 +1,27 @@
+{
+    "name" : "Mega Man Army",
+    "description": "Mega man army in full force to defend and win",
+    "image" : "https://ipfs.io/ipfs/QmeofwD77ApVdmzTGpXQBpaQv33sGzQHVh7rbjFoM1jMay/00.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}

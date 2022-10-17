@@ -1,0 +1,27 @@
+{
+    "name" : "Pixel Mega Man",
+    "description": "Pixel illustration of the legendary Mega Man",
+    "image" : "https://ipfs.io/ipfs/QmeofwD77ApVdmzTGpXQBpaQv33sGzQHVh7rbjFoM1jMay/44.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}
